@@ -28,5 +28,15 @@
   "paperclipai/paperclip",
   "rasbt/LLMs-from-scratch",
   "microsoft/playwright",
-  "puppeteer/puppeteer"
+  "puppeteer/puppeteer",
+  "infiniflow/ragflow",
+  "D4Vinci/Scrapling",
+  "rtk-ai/rtk",
+  "ruvnet/ruflo",
+  "shareAI-lab/learn-claude-code",
+  "career-ops-hq/career-ops",
+  "rohitg00/ai-engineering-from-scratch",
+  "thedaviddias/Front-End-Checklist",
+  "calesthio/OpenMontage",
+  "hugohe3/ppt-master"
 ]

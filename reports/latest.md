@@ -1,54 +1,54 @@
-# GitHub 每日精选 · 2026-11-01
+# GitHub 每日精选 · 2026-11-02
 
 覆盖 AI Agent、自动化、效率工具、内容创作、热门项目、知识管理、AI 编程、一人公司。
 说明：根据主题匹配、近期活跃度、总 Star 和历史推荐记录筛选；并非每日涨星排行榜。
 
-**1. langflow-ai/langflow**
-分类：AI内容创作｜⭐ 156,211｜语言：Python
-简介（原文）：Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
-地址：https://github.com/langflow-ai/langflow
+**1. infiniflow/ragflow**
+分类：AI Agent｜⭐ 93,324｜语言：Go
+简介（原文）：RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
+地址：https://github.com/infiniflow/ragflow
 
-**2. langchain-ai/langchain**
-分类：AI内容创作｜⭐ 148,796｜语言：Python
-简介（原文）：The agent engineering platform.
-地址：https://github.com/langchain-ai/langchain
+**2. D4Vinci/Scrapling**
+分类：AI自动化｜⭐ 91,933｜语言：Python
+简介（原文）：🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for d
+地址：https://github.com/D4Vinci/Scrapling
 
-**3. excalidraw/excalidraw**
-分类：个人效率工具｜⭐ 134,950｜语言：TypeScript
-简介（原文）：Virtual whiteboard for sketching hand-drawn like diagrams
-地址：https://github.com/excalidraw/excalidraw
+**3. rtk-ai/rtk**
+分类：个人效率工具｜⭐ 85,260｜语言：Rust
+简介（原文）：CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
+地址：https://github.com/rtk-ai/rtk
 
-**4. shadcn-ui/ui**
-分类：AI内容创作｜⭐ 127,082｜语言：TypeScript
-简介（原文）：Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.
-地址：https://github.com/shadcn-ui/ui
+**4. ruvnet/ruflo**
+分类：AI Agent｜⭐ 80,565｜语言：TypeScript
+简介（原文）：🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning 
+地址：https://github.com/ruvnet/ruflo
 
-**5. microsoft/generative-ai-for-beginners**
-分类：AI内容创作｜⭐ 122,673｜语言：Jupyter Notebook
-简介（原文）：21 Lessons, Get Started Building with Generative AI 
-地址：https://github.com/microsoft/generative-ai-for-beginners
+**5. shareAI-lab/learn-claude-code**
+分类：AI Agent｜⭐ 79,718｜语言：Python
+简介（原文）：Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
+地址：https://github.com/shareAI-lab/learn-claude-code
 
-**6. stablyai/orca**
-分类：AI自动化｜⭐ 111,884｜语言：TypeScript
-简介（原文）：Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
-地址：https://github.com/stablyai/orca
+**6. career-ops-hq/career-ops**
+分类：AI Agent｜⭐ 79,351｜语言：JavaScript
+简介（原文）：Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview 
+地址：https://github.com/career-ops-hq/career-ops
 
-**7. paperclipai/paperclip**
-分类：AI Agent｜⭐ 109,597｜语言：TypeScript
-简介（原文）：The open-source app everyone uses to manage agents at work
-地址：https://github.com/paperclipai/paperclip
+**7. rohitg00/ai-engineering-from-scratch**
+分类：AI内容创作｜⭐ 76,297｜语言：Python
+简介（原文）：Learn AI Engineering! Learn it. Build it. Ship it for others.
+地址：https://github.com/rohitg00/ai-engineering-from-scratch
 
-**8. rasbt/LLMs-from-scratch**
-分类：AI内容创作｜⭐ 107,618｜语言：Jupyter Notebook
-简介（原文）：Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
-地址：https://github.com/rasbt/LLMs-from-scratch
+**8. thedaviddias/Front-End-Checklist**
+分类：AI Agent｜⭐ 74,626｜语言：MDX
+简介（原文）：🗂 The essential checklist for modern web development, for humans and AI agents
+地址：https://github.com/thedaviddias/Front-End-Checklist
 
-**9. microsoft/playwright**
-分类：AI自动化｜⭐ 99,006｜语言：TypeScript
-简介（原文）：Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. 
-地址：https://github.com/microsoft/playwright
+**9. calesthio/OpenMontage**
+分类：AI Agent｜⭐ 74,541｜语言：Python
+简介（原文）：World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into
+地址：https://github.com/calesthio/OpenMontage
 
-**10. puppeteer/puppeteer**
-分类：AI自动化｜⭐ 95,776｜语言：TypeScript
-简介（原文）：JavaScript API for Chrome and Firefox
-地址：https://github.com/puppeteer/puppeteer
+**10. hugohe3/ppt-master**
+分类：AI Agent｜⭐ 72,260｜语言：Python
+简介（原文）：AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speake
+地址：https://github.com/hugohe3/ppt-master
