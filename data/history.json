@@ -48,5 +48,15 @@
   "hesreallyhim/awesome-claude-code",
   "huginn/huginn",
   "HKUDS/nanobot",
-  "usebruno/bruno"
+  "usebruno/bruno",
+  "zhayujie/CowAgent",
+  "apache/airflow",
+  "siyuan-note/siyuan",
+  "files-community/Files",
+  "langchain-ai/langgraph",
+  "sxyazi/yazi",
+  "tinyhumansai/openhuman",
+  "fastlane/fastlane",
+  "wshobson/agents",
+  "lyogavin/airllm"
 ]
