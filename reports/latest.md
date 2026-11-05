@@ -1,54 +1,54 @@
-# GitHub 每日精选 · 2026-11-04
+# GitHub 每日精选 · 2026-11-05
 
 覆盖 AI Agent、自动化、效率工具、内容创作、热门项目、知识管理、AI 编程、一人公司。
 说明：根据主题匹配、近期活跃度、总 Star 和历史推荐记录筛选；并非每日涨星排行榜。
 
-**1. zhayujie/CowAgent**
-分类：AI Agent｜⭐ 47,776｜语言：Python
-简介（原文）：Open-source personal AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-agent, multi-model, multi-channel. Lightweight,
-地址：https://github.com/zhayujie/CowAgent
+**1. appsmithorg/appsmith**
+分类：AI自动化｜⭐ 41,161｜语言：TypeScript
+简介（原文）：Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
+地址：https://github.com/appsmithorg/appsmith
 
-**2. apache/airflow**
-分类：AI自动化｜⭐ 47,356｜语言：Python
-简介（原文）：Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
-地址：https://github.com/apache/airflow
+**2. CorentinTh/it-tools**
+分类：个人效率工具｜⭐ 41,119｜语言：Vue
+简介（原文）：Collection of handy online tools for developers, with great UX. 
+地址：https://github.com/CorentinTh/it-tools
 
-**3. siyuan-note/siyuan**
-分类：AI Agent｜⭐ 47,064｜语言：TypeScript
-简介（原文）：An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
-地址：https://github.com/siyuan-note/siyuan
+**3. ShareX/ShareX**
+分类：个人效率工具｜⭐ 40,638｜语言：C#
+简介（原文）：ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and 
+地址：https://github.com/ShareX/ShareX
 
-**4. files-community/Files**
-分类：个人效率工具｜⭐ 46,483｜语言：C#
-简介（原文）：A modern file manager that helps users organize their files and folders.
-地址：https://github.com/files-community/Files
+**4. TriliumNext/Trilium**
+分类：开源知识管理｜⭐ 38,704｜语言：TypeScript
+简介（原文）：Build your personal knowledge base with Trilium Notes
+地址：https://github.com/TriliumNext/Trilium
 
-**5. langchain-ai/langgraph**
-分类：AI内容创作｜⭐ 44,428｜语言：Python
-简介（原文）：Build resilient agents.
-地址：https://github.com/langchain-ai/langgraph
+**5. CopilotKit/CopilotKit**
+分类：AI Agent｜⭐ 38,524｜语言：TypeScript
+简介（原文）：The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol
+地址：https://github.com/CopilotKit/CopilotKit
 
-**6. sxyazi/yazi**
-分类：个人效率工具｜⭐ 43,213｜语言：Rust
-简介（原文）：💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-地址：https://github.com/sxyazi/yazi
+**6. virgiliojr94/book-to-skill**
+分类：开源知识管理｜⭐ 37,003｜语言：Python
+简介（原文）：Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
+地址：https://github.com/virgiliojr94/book-to-skill
 
-**7. tinyhumansai/openhuman**
-分类：开源知识管理｜⭐ 42,530｜语言：Rust
-简介（原文）：The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS.
-地址：https://github.com/tinyhumansai/openhuman
+**7. Tencent/WeKnora**
+分类：AI内容创作｜⭐ 36,530｜语言：Go
+简介（原文）：Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
+地址：https://github.com/Tencent/WeKnora
 
-**8. fastlane/fastlane**
-分类：AI自动化｜⭐ 42,353｜语言：Ruby
-简介（原文）：🚀 The easiest way to automate building and releasing your iOS and Android apps
-地址：https://github.com/fastlane/fastlane
+**8. esengine/DeepSeek-Reasonix**
+分类：AI编程/Codex｜⭐ 36,082｜语言：Go
+简介（原文）：A reliable coding agent for complex software engineering tasks.
+地址：https://github.com/esengine/DeepSeek-Reasonix
 
-**9. wshobson/agents**
-分类：AI Agent｜⭐ 42,166｜语言：Python
-简介（原文）：Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
-地址：https://github.com/wshobson/agents
+**9. ahujasid/mcp-for-blender**
+分类：AI内容创作｜⭐ 33,341｜语言：Python
+简介（原文）：Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.
+地址：https://github.com/ahujasid/mcp-for-blender
 
-**10. lyogavin/airllm**
-分类：AI内容创作｜⭐ 41,694｜语言：Jupyter Notebook
-简介（原文）：AirLLM 2.8T LLM inference with single 4GB GPU
-地址：https://github.com/lyogavin/airllm
+**10. QwenLM/qwen-code**
+分类：AI编程/Codex｜⭐ 29,014｜语言：TypeScript
+简介（原文）：An open-source AI coding agent that lives in your terminal.
+地址：https://github.com/QwenLM/qwen-code

@@ -58,5 +58,15 @@
   "tinyhumansai/openhuman",
   "fastlane/fastlane",
   "wshobson/agents",
-  "lyogavin/airllm"
+  "lyogavin/airllm",
+  "appsmithorg/appsmith",
+  "CorentinTh/it-tools",
+  "ShareX/ShareX",
+  "TriliumNext/Trilium",
+  "CopilotKit/CopilotKit",
+  "virgiliojr94/book-to-skill",
+  "Tencent/WeKnora",
+  "esengine/DeepSeek-Reasonix",
+  "ahujasid/mcp-for-blender",
+  "QwenLM/qwen-code"
 ]
