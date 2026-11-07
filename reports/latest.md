@@ -1,54 +1,54 @@
-# GitHub 每日精选 · 2026-11-06
+# GitHub 每日精选 · 2026-11-07
 
 覆盖 AI Agent、自动化、效率工具、内容创作、热门项目、知识管理、AI 编程、一人公司。
 说明：根据主题匹配、近期活跃度、总 Star 和历史推荐记录筛选；并非每日涨星排行榜。
 
-**1. jwasham/coding-interview-university**
-分类：全部热门项目｜⭐ 364,012｜语言：未标注
-简介（原文）：A complete computer science study plan to become a software engineer.
-地址：https://github.com/jwasham/coding-interview-university
+**1. lobehub/lobehub**
+分类：个人效率工具｜⭐ 84,274｜语言：TypeScript
+简介（原文）：🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.
+地址：https://github.com/lobehub/lobehub
 
-**2. OthmanAdi/planning-with-files**
-分类：AI编程/Codex｜⭐ 27,914｜语言：Shell
-简介（原文）：Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against 
-地址：https://github.com/OthmanAdi/planning-with-files
+**2. feder-cr/Jobs_Applier_AI_Agent**
+分类：AI自动化｜⭐ 32,383｜语言：Python
+简介（原文）：AI job application bot: automated job search and job hunting, auto-apply to resume-matching jobs while you sleep.
+地址：https://github.com/feder-cr/Jobs_Applier_AI_Agent
 
-**3. Wox-launcher/Wox**
-分类：个人效率工具｜⭐ 27,602｜语言：Go
-简介（原文）：A cross-platform launcher that simply works
-地址：https://github.com/Wox-launcher/Wox
+**3. NanmiCoder/cc-haha**
+分类：AI编程/Codex｜⭐ 15,342｜语言：TypeScript
+简介（原文）：本地优先的跨平台 Claude Code / AI Agent 桌面工作台：多 Agent 协作、Git Worktree、代码 Diff、技能市场、多模型、Computer Use、桌面宠物；支持微信、飞书、钉钉及 H5 等远程访问。 | Local-first Claude Code / AI Agent desktop workspace: multi
+地址：https://github.com/NanmiCoder/cc-haha
 
-**4. lissy93/dashy**
-分类：个人效率工具｜⭐ 26,932｜语言：Vue
-简介（原文）：🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
-地址：https://github.com/lissy93/dashy
+**4. ccch1mneyyy/dsh-Go**
+分类：AI编程/Codex｜⭐ 13,227｜语言：Dart
+简介（原文）：dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。
+地址：https://github.com/ccch1mneyyy/dsh-Go
 
-**5. plotly/dash**
-分类：个人效率工具｜⭐ 24,478｜语言：Python
-简介（原文）：Data Apps & Dashboards for Python. No JavaScript Required.
-地址：https://github.com/plotly/dash
+**5. codexu/note-gen**
+分类：开源知识管理｜⭐ 12,986｜语言：TypeScript
+简介（原文）：Capture first. Organize later. A local-first Markdown app that turns scattered records into clear notes with AI.
+地址：https://github.com/codexu/note-gen
 
-**6. super-productivity/super-productivity**
-分类：个人效率工具｜⭐ 23,434｜语言：TypeScript
-简介（原文）：Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project
-地址：https://github.com/super-productivity/super-productivity
+**6. tryatlas/atlas**
+分类：AI编程/Codex｜⭐ 9,386｜语言：TypeScript
+简介（原文）：Source control for agents. Use multiple coding agents, track their changes and query them in one place
+地址：https://github.com/tryatlas/atlas
 
-**7. 1jehuang/jcode**
-分类：AI编程/Codex｜⭐ 21,542｜语言：Rust
-简介（原文）：High performance coding agent harness written in Rust, built for heavy multi-agent dev workflows
-地址：https://github.com/1jehuang/jcode
+**7. Orkas-AI/Orkas**
+分类：AI自动化｜⭐ 9,074｜语言：JavaScript
+简介（原文）：Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, 
+地址：https://github.com/Orkas-AI/Orkas
 
-**8. leon-ai/leon**
-分类：个人效率工具｜⭐ 17,646｜语言：TypeScript
-简介（原文）：🧠 Leon is your open-source personal assistant.
-地址：https://github.com/leon-ai/leon
+**8. YaoApp/yao**
+分类：AI编程/Codex｜⭐ 8,274｜语言：Go
+简介（原文）：✨ All your agents and workspaces in one place, on every device you own. Track tasks on a board, accessible from desktop, mobile, browser, or API. Self-hosted.
+地址：https://github.com/YaoApp/yao
 
-**9. iamgio/quarkdown**
-分类：开源知识管理｜⭐ 16,346｜语言：Kotlin
-简介（原文）：🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
-地址：https://github.com/iamgio/quarkdown
+**9. vastsa/PI-Desktop**
+分类：AI编程/Codex｜⭐ 7,753｜语言：TypeScript
+简介（原文）：Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins
+地址：https://github.com/vastsa/PI-Desktop
 
-**10. AgriciDaniel/claude-obsidian**
-分类：开源知识管理｜⭐ 16,213｜语言：Python
-简介（原文）：Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI n
-地址：https://github.com/AgriciDaniel/claude-obsidian
+**10. algorithmicsuperintelligence/openevolve**
+分类：AI编程/Codex｜⭐ 7,725｜语言：Python
+简介（原文）：Open-source implementation of AlphaEvolve
+地址：https://github.com/algorithmicsuperintelligence/openevolve
