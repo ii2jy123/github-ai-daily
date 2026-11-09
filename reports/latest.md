@@ -1,54 +1,54 @@
-# GitHub 每日精选 · 2026-11-08
+# GitHub 每日精选 · 2026-11-09
 
 覆盖 AI Agent、自动化、效率工具、内容创作、热门项目、知识管理、AI 编程、一人公司。
 说明：根据主题匹配、近期活跃度、总 Star 和历史推荐记录筛选；并非每日涨星排行榜。
 
-**1. OpenMontageInc/OpenMontage**
-分类：AI Agent｜⭐ 78,374｜语言：Python
-简介（原文）：World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into
-地址：https://github.com/OpenMontageInc/OpenMontage
+**1. codecrafters-io/build-your-own-x**
+分类：全部热门项目｜⭐ 561,162｜语言：Markdown
+简介（原文）：Master programming by recreating your favorite technologies from scratch.
+地址：https://github.com/codecrafters-io/build-your-own-x
 
-**2. silverbulletmd/silverbullet**
-分类：开源知识管理｜⭐ 6,479｜语言：TypeScript
-简介（原文）：The malleable knowledge base for you and your team. Powered by Markdown and Lua.
-地址：https://github.com/silverbulletmd/silverbullet
+**2. mergisi/awesome-openclaw-agents**
+分类：AI自动化｜⭐ 4,060｜语言：HTML
+简介（原文）：197 production-ready AI agent templates for OpenClaw. SOUL.md configs across 24 categories. Submit yours!
+地址：https://github.com/mergisi/awesome-openclaw-agents
 
-**3. pbek/QOwnNotes**
-分类：开源知识管理｜⭐ 5,946｜语言：C++
-简介（原文）：QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
-地址：https://github.com/pbek/QOwnNotes
+**3. Smaug6739/Alexandrie**
+分类：开源知识管理｜⭐ 3,887｜语言：Vue
+简介（原文）：📚 The open-source, offline-first Notion, Obsidian & Confluence alternative. Advanced Markdown, multi-tenant teams, OIDC/SSO, and local S3 backups. Deploy in one command.
+地址：https://github.com/Smaug6739/Alexandrie
 
-**4. eugeniughelbur/obsidian-second-brain**
-分类：开源知识管理｜⭐ 5,216｜语言：Python
-简介（原文）：Persistent memory for Claude Code, Codex and 6 other AI agents, stored as plain markdown in your Obsidian vault. New: Crew, one shared logbook so Claude Code, Codex, Cursor and Gro
-地址：https://github.com/eugeniughelbur/obsidian-second-brain
+**4. Ar9av/obsidian-wiki**
+分类：开源知识管理｜⭐ 3,701｜语言：Python
+简介（原文）：Framework for AI agents to build and maintain a digital brain through Obsidian wiki | Memory System for Agents
+地址：https://github.com/Ar9av/obsidian-wiki
 
-**5. chaitin/MonkeyCode**
-分类：AI编程/Codex｜⭐ 5,092｜语言：TypeScript
-简介（原文）：企业级 AI 办公工作台
-地址：https://github.com/chaitin/MonkeyCode
+**5. twinnydotdev/twinny**
+分类：AI编程/Codex｜⭐ 3,693｜语言：TypeScript
+简介（原文）：Open-source AI coding assistant for VS Code. Coding agent, code completion, chat, edits and reviews with local or hosted models. Your models, your infrastructure.
+地址：https://github.com/twinnydotdev/twinny
 
-**6. microsoft/TokenEconomizer**
-分类：AI编程/Codex｜⭐ 4,962｜语言：Python
-简介（原文）：Experience-Driven Black-Box Cost Control for Coding Agents
-地址：https://github.com/microsoft/TokenEconomizer
+**6. SamurAIGPT/llm-wiki-agent**
+分类：开源知识管理｜⭐ 3,686｜语言：Python
+简介（原文）：A personal knowledge base that builds and maintains itself. Drop in sources — Claude (or Codex/Gemini) reads them, extracts knowledge, and maintains a persistent interlinked wiki. 
+地址：https://github.com/SamurAIGPT/llm-wiki-agent
 
-**7. Agenta-AI/agenta**
-分类：AI自动化｜⭐ 4,891｜语言：TypeScript
-简介（原文）：Agenta is a workspace where you and your team build agents and automations.
-地址：https://github.com/Agenta-AI/agenta
+**7. Mirix-AI/MIRIX**
+分类：个人效率工具｜⭐ 3,459｜语言：Python
+简介（原文）：Mirix is a multi-agent personal assistant designed to track on-screen activities and answer user questions intelligently. By capturing real-time visual data and consolidating it in
+地址：https://github.com/Mirix-AI/MIRIX
 
-**8. inkeep/open-knowledge**
-分类：开源知识管理｜⭐ 4,810｜语言：TypeScript
-简介（原文）：Beautiful, AI-native markdown IDE and LLM wiki
-地址：https://github.com/inkeep/open-knowledge
+**8. zmister2016/MrDoc**
+分类：开源知识管理｜⭐ 3,248｜语言：JavaScript
+简介（原文）：mrdoc,online document system developed based on python. It is suitable for individuals and small teams to manage documents, wiki, knowledge and notes. 觅思文档，适合于个人和中小型团队的在线文档、AI知识库系统
+地址：https://github.com/zmister2016/MrDoc
 
-**9. basicmachines-co/basic-memory**
-分类：开源知识管理｜⭐ 4,529｜语言：Python
-简介（原文）：AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN
-地址：https://github.com/basicmachines-co/basic-memory
+**9. aardappel/treesheets**
+分类：开源知识管理｜⭐ 3,195｜语言：C++
+简介（原文）：Hierarchical spreadsheet: a free-form data organizer that replaces outliners, mind maps and spreadsheets.
+地址：https://github.com/aardappel/treesheets
 
-**10. freeplane/freeplane**
-分类：开源知识管理｜⭐ 4,457｜语言：Java
-简介（原文）：Application for Mind Mapping, Knowledge Management, Project Management. Develop, organize and communicate your ideas and knowledge in the most effective way.
-地址：https://github.com/freeplane/freeplane
+**10. tianma-if/edgeever**
+分类：开源知识管理｜⭐ 3,172｜语言：TypeScript
+简介（原文）：AI-native knowledge base & Evernote/Obsidian alternative. Instant all-platform sync, rich notes (tables, mind maps, diagrams, posters), web clipper & MCP. 100% free on Cloudflare o
+地址：https://github.com/tianma-if/edgeever
