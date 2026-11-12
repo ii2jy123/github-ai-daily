@@ -128,5 +128,15 @@
   "n8n-io/n8n",
   "ohmyzsh/ohmyzsh",
   "Significant-Gravitas/AutoGPT",
-  "can1357/oh-my-pi"
+  "can1357/oh-my-pi",
+  "langflow-ai/langflow",
+  "langchain-ai/langchain",
+  "excalidraw/excalidraw",
+  "shadcn-ui/ui",
+  "microsoft/generative-ai-for-beginners",
+  "stablyai/orca",
+  "paperclipai/paperclip",
+  "rasbt/LLMs-from-scratch",
+  "microsoft/playwright",
+  "puppeteer/puppeteer"
 ]
