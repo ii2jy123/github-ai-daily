@@ -138,5 +138,15 @@
   "paperclipai/paperclip",
   "rasbt/LLMs-from-scratch",
   "microsoft/playwright",
-  "puppeteer/puppeteer"
+  "puppeteer/puppeteer",
+  "D4Vinci/Scrapling",
+  "infiniflow/ragflow",
+  "rtk-ai/rtk",
+  "career-ops-hq/career-ops",
+  "ruvnet/ruflo",
+  "rohitg00/ai-engineering-from-scratch",
+  "hugohe3/ppt-master",
+  "thedaviddias/Front-End-Checklist",
+  "Anil-matcha/Open-Generative-AI",
+  "haiwen/seafile"
 ]
