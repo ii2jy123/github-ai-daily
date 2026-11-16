@@ -168,5 +168,15 @@
   "sxyazi/yazi",
   "tinyhumansai/openhuman",
   "wshobson/agents",
-  "lyogavin/airllm"
+  "lyogavin/airllm",
+  "fastlane/fastlane",
+  "CorentinTh/it-tools",
+  "appsmithorg/appsmith",
+  "ShareX/ShareX",
+  "TriliumNext/Trilium",
+  "CopilotKit/CopilotKit",
+  "virgiliojr94/book-to-skill",
+  "Tencent/WeKnora",
+  "QwenLM/qwen-code",
+  "tonhowtf/omniget"
 ]
