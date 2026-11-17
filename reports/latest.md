@@ -1,54 +1,54 @@
-# GitHub 每日精选 · 2026-11-16
+# GitHub 每日精选 · 2026-11-17
 
 覆盖 AI Agent、自动化、效率工具、内容创作、热门项目、知识管理、AI 编程、一人公司。
 说明：根据主题匹配、近期活跃度、总 Star 和历史推荐记录筛选；并非每日涨星排行榜。
 
-**1. fastlane/fastlane**
-分类：AI自动化｜⭐ 42,389｜语言：Ruby
-简介（原文）：🚀 The easiest way to automate building and releasing your iOS and Android apps
-地址：https://github.com/fastlane/fastlane
+**1. jwasham/coding-interview-university**
+分类：全部热门项目｜⭐ 364,455｜语言：未标注
+简介（原文）：A complete computer science study plan to become a software engineer.
+地址：https://github.com/jwasham/coding-interview-university
 
-**2. CorentinTh/it-tools**
-分类：个人效率工具｜⭐ 41,280｜语言：Vue
-简介（原文）：Collection of handy online tools for developers, with great UX. 
-地址：https://github.com/CorentinTh/it-tools
+**2. OthmanAdi/planning-with-files**
+分类：AI编程/Codex｜⭐ 28,102｜语言：Shell
+简介（原文）：Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against 
+地址：https://github.com/OthmanAdi/planning-with-files
 
-**3. appsmithorg/appsmith**
-分类：AI自动化｜⭐ 41,255｜语言：TypeScript
-简介（原文）：Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
-地址：https://github.com/appsmithorg/appsmith
+**3. Wox-launcher/Wox**
+分类：个人效率工具｜⭐ 27,653｜语言：Go
+简介（原文）：A cross-platform launcher that simply works
+地址：https://github.com/Wox-launcher/Wox
 
-**4. ShareX/ShareX**
-分类：个人效率工具｜⭐ 41,064｜语言：C#
-简介（原文）：ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and 
-地址：https://github.com/ShareX/ShareX
+**4. lissy93/dashy**
+分类：个人效率工具｜⭐ 27,009｜语言：Vue
+简介（原文）：🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+地址：https://github.com/lissy93/dashy
 
-**5. TriliumNext/Trilium**
-分类：开源知识管理｜⭐ 38,960｜语言：TypeScript
-简介（原文）：Build your personal knowledge base with Trilium Notes
-地址：https://github.com/TriliumNext/Trilium
+**5. plotly/dash**
+分类：个人效率工具｜⭐ 24,491｜语言：Python
+简介（原文）：Data Apps & Dashboards for Python. No JavaScript Required.
+地址：https://github.com/plotly/dash
 
-**6. CopilotKit/CopilotKit**
-分类：AI Agent｜⭐ 38,724｜语言：TypeScript
-简介（原文）：The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol
-地址：https://github.com/CopilotKit/CopilotKit
+**6. super-productivity/super-productivity**
+分类：个人效率工具｜⭐ 23,748｜语言：TypeScript
+简介（原文）：Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project
+地址：https://github.com/super-productivity/super-productivity
 
-**7. virgiliojr94/book-to-skill**
-分类：开源知识管理｜⭐ 38,018｜语言：Python
-简介（原文）：Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
-地址：https://github.com/virgiliojr94/book-to-skill
+**7. 1jehuang/jcode**
+分类：AI编程/Codex｜⭐ 21,829｜语言：Rust
+简介（原文）：High performance coding agent harness written in Rust, built for heavy multi-agent dev workflows
+地址：https://github.com/1jehuang/jcode
 
-**8. Tencent/WeKnora**
-分类：AI内容创作｜⭐ 37,512｜语言：Go
-简介（原文）：Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-地址：https://github.com/Tencent/WeKnora
+**8. leon-ai/leon**
+分类：个人效率工具｜⭐ 17,687｜语言：TypeScript
+简介（原文）：🧠 Leon is your open-source personal assistant.
+地址：https://github.com/leon-ai/leon
 
-**9. QwenLM/qwen-code**
-分类：AI编程/Codex｜⭐ 30,566｜语言：TypeScript
-简介（原文）：An open-source AI coding agent that lives in your terminal.
-地址：https://github.com/QwenLM/qwen-code
+**9. iamgio/quarkdown**
+分类：开源知识管理｜⭐ 16,387｜语言：Kotlin
+简介（原文）：🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
+地址：https://github.com/iamgio/quarkdown
 
-**10. tonhowtf/omniget**
-分类：AI编程/Codex｜⭐ 14,462｜语言：Rust
-简介（原文）：A local MCP server that gives your coding agent a desktop toolbox: downloads from YouTube, torrents and every site yt-dlp supports, media conversion, files, chats and system cleanu
-地址：https://github.com/tonhowtf/omniget
+**10. ccch1mneyyy/dsh-TUI**
+分类：AI编程/Codex｜⭐ 7,832｜语言：TypeScript
+简介（原文）：DSH's officially top-recommended TUI plugin — high performance, low overhead, cute pixel whale, smooth mouse interaction. One-command install via npm. / DSH 官方首推的 TUI 插件，高性能低占用，可爱像
+地址：https://github.com/ccch1mneyyy/dsh-TUI
