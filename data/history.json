@@ -1,14 +1,4 @@
 [
-  "affaan-m/ECC",
-  "langgenius/dify",
-  "Panniantong/Agent-Reach",
-  "microsoft/ai-agents-for-beginners",
-  "codewhale-hq/Codewhale",
-  "public-apis/public-apis",
-  "freeCodeCamp/freeCodeCamp",
-  "morluto/rea",
-  "EbookFoundation/free-programming-books",
-  "openclaw/openclaw",
   "nilbuild/developer-roadmap",
   "awesome-selfhosted/awesome-selfhosted",
   "vinta/awesome-python",
@@ -198,5 +188,15 @@
   "Orkas-AI/Orkas",
   "YaoApp/yao",
   "vastsa/PI-Desktop",
-  "Marker-Inc-Korea/AutoRAG"
+  "Marker-Inc-Korea/AutoRAG",
+  "OpenMontageInc/OpenMontage",
+  "gogs/gogs",
+  "kajisho5/ffmpeg-skill",
+  "microsoft/TokenEconomizer",
+  "silverbulletmd/silverbullet",
+  "pbek/QOwnNotes",
+  "eugeniughelbur/obsidian-second-brain",
+  "chaitin/MonkeyCode",
+  "Agenta-AI/agenta",
+  "inkeep/open-knowledge"
 ]

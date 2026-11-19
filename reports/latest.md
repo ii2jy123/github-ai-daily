@@ -1,54 +1,54 @@
-# GitHub 每日精选 · 2026-11-18
+# GitHub 每日精选 · 2026-11-19
 
 覆盖 AI Agent、自动化、效率工具、内容创作、热门项目、知识管理、AI 编程、一人公司。
 说明：根据主题匹配、近期活跃度、总 Star 和历史推荐记录筛选；并非每日涨星排行榜。
 
-**1. lobehub/lobehub**
-分类：个人效率工具｜⭐ 85,742｜语言：TypeScript
-简介（原文）：🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.
-地址：https://github.com/lobehub/lobehub
+**1. OpenMontageInc/OpenMontage**
+分类：AI Agent｜⭐ 81,620｜语言：Python
+简介（原文）：World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into
+地址：https://github.com/OpenMontageInc/OpenMontage
 
-**2. feder-cr/Jobs_Applier_AI_Agent**
-分类：AI自动化｜⭐ 32,585｜语言：Python
-简介（原文）：AIHawk: AI job application bot, automated job search, job hunting, auto-apply to resume-matching jobs while you sleep.
-地址：https://github.com/feder-cr/Jobs_Applier_AI_Agent
+**2. gogs/gogs**
+分类：AI Agent｜⭐ 47,949｜语言：Go
+简介（原文）：The painless way to host your own Git service
+地址：https://github.com/gogs/gogs
 
-**3. ccch1mneyyy/dsh-Go**
-分类：AI编程/Codex｜⭐ 26,471｜语言：Dart
-简介（原文）：dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。
-地址：https://github.com/ccch1mneyyy/dsh-Go
+**3. kajisho5/ffmpeg-skill**
+分类：AI编程/Codex｜⭐ 8,092｜语言：Python
+简介（原文）：Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platf
+地址：https://github.com/kajisho5/ffmpeg-skill
 
-**4. NanmiCoder/cc-haha**
-分类：AI编程/Codex｜⭐ 15,485｜语言：TypeScript
-简介（原文）：本地优先的跨平台 Claude Code / AI Agent 桌面工作台：多 Agent 协作、Git Worktree、代码 Diff、技能市场、多模型、Computer Use、桌面宠物；支持微信、飞书、钉钉及 H5 等远程访问。 | Local-first Claude Code / AI Agent desktop workspace: multi
-地址：https://github.com/NanmiCoder/cc-haha
+**4. microsoft/TokenEconomizer**
+分类：AI编程/Codex｜⭐ 7,714｜语言：Python
+简介（原文）：Experience-Driven Black-Box Cost Control for Coding Agents
+地址：https://github.com/microsoft/TokenEconomizer
 
-**5. codexu/note-gen**
-分类：开源知识管理｜⭐ 13,031｜语言：TypeScript
-简介（原文）：Capture first. Organize later. A local-first Markdown app that turns scattered records into clear notes with AI.
-地址：https://github.com/codexu/note-gen
+**5. silverbulletmd/silverbullet**
+分类：开源知识管理｜⭐ 6,558｜语言：TypeScript
+简介（原文）：The malleable knowledge base for you and your team. Powered by Markdown and Lua.
+地址：https://github.com/silverbulletmd/silverbullet
 
-**6. tryatlas/atlas**
-分类：AI编程/Codex｜⭐ 9,449｜语言：TypeScript
-简介（原文）：Source control for agents. Use multiple coding agents, track their changes and query them in one place
-地址：https://github.com/tryatlas/atlas
+**6. pbek/QOwnNotes**
+分类：开源知识管理｜⭐ 5,970｜语言：C++
+简介（原文）：QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
+地址：https://github.com/pbek/QOwnNotes
 
-**7. Orkas-AI/Orkas**
-分类：AI自动化｜⭐ 9,442｜语言：JavaScript
-简介（原文）：Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, 
-地址：https://github.com/Orkas-AI/Orkas
+**7. eugeniughelbur/obsidian-second-brain**
+分类：开源知识管理｜⭐ 5,382｜语言：Python
+简介（原文）：Persistent memory for Claude Code, Codex and 6 other AI agents, stored as plain markdown in your Obsidian vault. New: Crew, one shared logbook so Claude Code, Codex, Cursor and Gro
+地址：https://github.com/eugeniughelbur/obsidian-second-brain
 
-**8. YaoApp/yao**
-分类：AI编程/Codex｜⭐ 8,317｜语言：Go
-简介（原文）：✨ All your agents and workspaces in one place, on every device you own. Track tasks on a board, accessible from desktop, mobile, browser, or API. Self-hosted.
-地址：https://github.com/YaoApp/yao
+**8. chaitin/MonkeyCode**
+分类：AI编程/Codex｜⭐ 5,302｜语言：TypeScript
+简介（原文）：企业级 AI 办公工作台
+地址：https://github.com/chaitin/MonkeyCode
 
-**9. vastsa/PI-Desktop**
-分类：AI编程/Codex｜⭐ 8,058｜语言：TypeScript
-简介（原文）：Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins
-地址：https://github.com/vastsa/PI-Desktop
+**9. Agenta-AI/agenta**
+分类：AI自动化｜⭐ 4,918｜语言：TypeScript
+简介（原文）：Agenta is a workspace where you and your team build agents and automations.
+地址：https://github.com/Agenta-AI/agenta
 
-**10. Marker-Inc-Korea/AutoRAG**
-分类：开源知识管理｜⭐ 6,008｜语言：TypeScript
-简介（原文）：Your Personal Librarian Agent. Ask anything on your computer, organize files, remember important info and files.
-地址：https://github.com/Marker-Inc-Korea/AutoRAG
+**10. inkeep/open-knowledge**
+分类：开源知识管理｜⭐ 4,871｜语言：TypeScript
+简介（原文）：Beautiful, AI-native markdown IDE and LLM wiki
+地址：https://github.com/inkeep/open-knowledge
