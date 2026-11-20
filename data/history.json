@@ -1,14 +1,4 @@
 [
-  "nilbuild/developer-roadmap",
-  "awesome-selfhosted/awesome-selfhosted",
-  "vinta/awesome-python",
-  "obra/superpowers",
-  "mattpocock/skills",
-  "practical-tutorials/project-based-learning",
-  "NousResearch/hermes-agent",
-  "n8n-io/n8n",
-  "ohmyzsh/ohmyzsh",
-  "Significant-Gravitas/AutoGPT",
   "langflow-ai/langflow",
   "langchain-ai/langchain",
   "excalidraw/excalidraw",
@@ -198,5 +188,15 @@
   "eugeniughelbur/obsidian-second-brain",
   "chaitin/MonkeyCode",
   "Agenta-AI/agenta",
-  "inkeep/open-knowledge"
+  "inkeep/open-knowledge",
+  "codecrafters-io/build-your-own-x",
+  "basicmachines-co/basic-memory",
+  "freeplane/freeplane",
+  "Smaug6739/Alexandrie",
+  "Ar9av/obsidian-wiki",
+  "SamurAIGPT/llm-wiki-agent",
+  "twinnydotdev/twinny",
+  "Mirix-AI/MIRIX",
+  "tianma-if/edgeever",
+  "zmister2016/MrDoc"
 ]
