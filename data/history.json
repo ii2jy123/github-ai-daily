@@ -1,14 +1,4 @@
 [
-  "langflow-ai/langflow",
-  "langchain-ai/langchain",
-  "excalidraw/excalidraw",
-  "shadcn-ui/ui",
-  "microsoft/generative-ai-for-beginners",
-  "stablyai/orca",
-  "paperclipai/paperclip",
-  "rasbt/LLMs-from-scratch",
-  "microsoft/playwright",
-  "puppeteer/puppeteer",
   "infiniflow/ragflow",
   "D4Vinci/Scrapling",
   "rtk-ai/rtk",
@@ -198,5 +188,15 @@
   "twinnydotdev/twinny",
   "Mirix-AI/MIRIX",
   "tianma-if/edgeever",
-  "zmister2016/MrDoc"
+  "zmister2016/MrDoc",
+  "affaan-m/ECC",
+  "langgenius/dify",
+  "Panniantong/Agent-Reach",
+  "microsoft/ai-agents-for-beginners",
+  "codewhale-hq/Codewhale",
+  "public-apis/public-apis",
+  "morluto/rea",
+  "freeCodeCamp/freeCodeCamp",
+  "EbookFoundation/free-programming-books",
+  "openclaw/openclaw"
 ]
