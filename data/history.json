@@ -1,14 +1,4 @@
 [
-  "infiniflow/ragflow",
-  "D4Vinci/Scrapling",
-  "rtk-ai/rtk",
-  "ruvnet/ruflo",
-  "shareAI-lab/learn-claude-code",
-  "career-ops-hq/career-ops",
-  "rohitg00/ai-engineering-from-scratch",
-  "thedaviddias/Front-End-Checklist",
-  "calesthio/OpenMontage",
-  "hugohe3/ppt-master",
   "asgeirtj/system_prompts_leaks",
   "openinterpreter/openinterpreter",
   "shanraisshan/claude-code-best-practice",
@@ -198,5 +188,15 @@
   "morluto/rea",
   "freeCodeCamp/freeCodeCamp",
   "EbookFoundation/free-programming-books",
-  "openclaw/openclaw"
+  "openclaw/openclaw",
+  "bojieli/ai-agent-book",
+  "nilbuild/developer-roadmap",
+  "awesome-selfhosted/awesome-selfhosted",
+  "vinta/awesome-python",
+  "mattpocock/skills",
+  "practical-tutorials/project-based-learning",
+  "NousResearch/hermes-agent",
+  "n8n-io/n8n",
+  "ohmyzsh/ohmyzsh",
+  "Significant-Gravitas/AutoGPT"
 ]
