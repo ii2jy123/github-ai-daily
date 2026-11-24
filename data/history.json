@@ -1,14 +1,4 @@
 [
-  "zhayujie/CowAgent",
-  "apache/airflow",
-  "siyuan-note/siyuan",
-  "files-community/Files",
-  "langchain-ai/langgraph",
-  "sxyazi/yazi",
-  "tinyhumansai/openhuman",
-  "fastlane/fastlane",
-  "wshobson/agents",
-  "lyogavin/airllm",
   "appsmithorg/appsmith",
   "CorentinTh/it-tools",
   "ShareX/ShareX",
@@ -198,5 +188,15 @@
   "paperclipai/paperclip",
   "rasbt/LLMs-from-scratch",
   "microsoft/playwright",
-  "puppeteer/puppeteer"
+  "puppeteer/puppeteer",
+  "D4Vinci/Scrapling",
+  "infiniflow/ragflow",
+  "rtk-ai/rtk",
+  "career-ops-hq/career-ops",
+  "ruvnet/ruflo",
+  "rohitg00/ai-engineering-from-scratch",
+  "hugohe3/ppt-master",
+  "mvanhorn/last30days-skill",
+  "can1357/oh-my-pi",
+  "Anil-matcha/Open-Generative-AI"
 ]
