@@ -1,14 +1,4 @@
 [
-  "appsmithorg/appsmith",
-  "CorentinTh/it-tools",
-  "ShareX/ShareX",
-  "TriliumNext/Trilium",
-  "CopilotKit/CopilotKit",
-  "virgiliojr94/book-to-skill",
-  "Tencent/WeKnora",
-  "esengine/DeepSeek-Reasonix",
-  "ahujasid/mcp-for-blender",
-  "QwenLM/qwen-code",
   "jwasham/coding-interview-university",
   "OthmanAdi/planning-with-files",
   "Wox-launcher/Wox",
@@ -198,5 +188,15 @@
   "hugohe3/ppt-master",
   "mvanhorn/last30days-skill",
   "can1357/oh-my-pi",
-  "Anil-matcha/Open-Generative-AI"
+  "Anil-matcha/Open-Generative-AI",
+  "obra/superpowers",
+  "ZhuLinsen/daily_stock_analysis",
+  "asgeirtj/system_prompts_leaks",
+  "shanraisshan/claude-code-best-practice",
+  "openinterpreter/openinterpreter",
+  "Mintplex-Labs/anything-llm",
+  "vectorize-io/hindsight",
+  "hesreallyhim/awesome-claude-code",
+  "huginn/huginn",
+  "HKUDS/nanobot"
 ]
