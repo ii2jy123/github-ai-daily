@@ -1,14 +1,4 @@
 [
-  "jwasham/coding-interview-university",
-  "OthmanAdi/planning-with-files",
-  "Wox-launcher/Wox",
-  "lissy93/dashy",
-  "plotly/dash",
-  "super-productivity/super-productivity",
-  "1jehuang/jcode",
-  "leon-ai/leon",
-  "iamgio/quarkdown",
-  "AgriciDaniel/claude-obsidian",
   "lobehub/lobehub",
   "feder-cr/Jobs_Applier_AI_Agent",
   "NanmiCoder/cc-haha",
@@ -198,5 +188,15 @@
   "vectorize-io/hindsight",
   "hesreallyhim/awesome-claude-code",
   "huginn/huginn",
-  "HKUDS/nanobot"
+  "HKUDS/nanobot",
+  "shareAI-lab/learn-claude-code",
+  "ayghri/i-have-adhd",
+  "usebruno/bruno",
+  "zhayujie/CowAgent",
+  "apache/airflow",
+  "siyuan-note/siyuan",
+  "files-community/Files",
+  "langchain-ai/langgraph",
+  "sxyazi/yazi",
+  "lyogavin/airllm"
 ]
