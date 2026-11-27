@@ -1,14 +1,4 @@
 [
-  "lobehub/lobehub",
-  "feder-cr/Jobs_Applier_AI_Agent",
-  "NanmiCoder/cc-haha",
-  "ccch1mneyyy/dsh-Go",
-  "codexu/note-gen",
-  "tryatlas/atlas",
-  "Orkas-AI/Orkas",
-  "YaoApp/yao",
-  "vastsa/PI-Desktop",
-  "algorithmicsuperintelligence/openevolve",
   "OpenMontageInc/OpenMontage",
   "silverbulletmd/silverbullet",
   "pbek/QOwnNotes",
@@ -198,5 +188,15 @@
   "files-community/Files",
   "langchain-ai/langgraph",
   "sxyazi/yazi",
-  "lyogavin/airllm"
+  "lyogavin/airllm",
+  "tinyhumansai/openhuman",
+  "fastlane/fastlane",
+  "ShareX/ShareX",
+  "CorentinTh/it-tools",
+  "virgiliojr94/book-to-skill",
+  "TriliumNext/Trilium",
+  "Tencent/WeKnora",
+  "QwenLM/qwen-code",
+  "nocobase/nocobase",
+  "haiwen/seafile"
 ]
