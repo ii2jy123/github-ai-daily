@@ -1,14 +1,4 @@
 [
-  "OpenMontageInc/OpenMontage",
-  "silverbulletmd/silverbullet",
-  "pbek/QOwnNotes",
-  "eugeniughelbur/obsidian-second-brain",
-  "chaitin/MonkeyCode",
-  "microsoft/TokenEconomizer",
-  "Agenta-AI/agenta",
-  "inkeep/open-knowledge",
-  "basicmachines-co/basic-memory",
-  "freeplane/freeplane",
   "codecrafters-io/build-your-own-x",
   "mergisi/awesome-openclaw-agents",
   "Smaug6739/Alexandrie",
@@ -198,5 +188,15 @@
   "Tencent/WeKnora",
   "QwenLM/qwen-code",
   "nocobase/nocobase",
-  "haiwen/seafile"
+  "haiwen/seafile",
+  "OthmanAdi/planning-with-files",
+  "Wox-launcher/Wox",
+  "lissy93/dashy",
+  "plotly/dash",
+  "1jehuang/jcode",
+  "leon-ai/leon",
+  "iamgio/quarkdown",
+  "tonhowtf/omniget",
+  "n8n-io/nod",
+  "gamosoft/NoteDiscovery"
 ]

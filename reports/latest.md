@@ -1,54 +1,54 @@
-# GitHub 每日精选 · 2026-11-27
+# GitHub 每日精选 · 2026-11-28
 
 覆盖 AI Agent、自动化、效率工具、内容创作、热门项目、知识管理、AI 编程、一人公司。
 说明：根据主题匹配、近期活跃度、总 Star 和历史推荐记录筛选；并非每日涨星排行榜。
 
-**1. tinyhumansai/openhuman**
-分类：开源知识管理｜⭐ 42,866｜语言：Rust
-简介（原文）：The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS.
-地址：https://github.com/tinyhumansai/openhuman
+**1. OthmanAdi/planning-with-files**
+分类：AI编程/Codex｜⭐ 28,272｜语言：Shell
+简介（原文）：Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against 
+地址：https://github.com/OthmanAdi/planning-with-files
 
-**2. fastlane/fastlane**
-分类：AI自动化｜⭐ 42,526｜语言：Ruby
-简介（原文）：🚀 The easiest way to automate building and releasing your iOS and Android apps
-地址：https://github.com/fastlane/fastlane
+**2. Wox-launcher/Wox**
+分类：个人效率工具｜⭐ 27,709｜语言：Go
+简介（原文）：A cross-platform launcher that simply works
+地址：https://github.com/Wox-launcher/Wox
 
-**3. ShareX/ShareX**
-分类：个人效率工具｜⭐ 41,405｜语言：C#
-简介（原文）：ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and 
-地址：https://github.com/ShareX/ShareX
+**3. lissy93/dashy**
+分类：个人效率工具｜⭐ 27,087｜语言：Vue
+简介（原文）：🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+地址：https://github.com/lissy93/dashy
 
-**4. CorentinTh/it-tools**
-分类：个人效率工具｜⭐ 41,376｜语言：Vue
-简介（原文）：Collection of handy online tools for developers, with great UX. 
-地址：https://github.com/CorentinTh/it-tools
+**4. plotly/dash**
+分类：个人效率工具｜⭐ 24,510｜语言：Python
+简介（原文）：Data Apps & Dashboards for Python. No JavaScript Required.
+地址：https://github.com/plotly/dash
 
-**5. virgiliojr94/book-to-skill**
-分类：开源知识管理｜⭐ 39,136｜语言：Python
-简介（原文）：Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
-地址：https://github.com/virgiliojr94/book-to-skill
+**5. 1jehuang/jcode**
+分类：AI编程/Codex｜⭐ 22,116｜语言：Rust
+简介（原文）：High performance coding agent harness written in Rust, built for heavy multi-agent dev workflows
+地址：https://github.com/1jehuang/jcode
 
-**6. TriliumNext/Trilium**
-分类：开源知识管理｜⭐ 39,100｜语言：TypeScript
-简介（原文）：Build your personal knowledge base with Trilium Notes
-地址：https://github.com/TriliumNext/Trilium
+**6. leon-ai/leon**
+分类：个人效率工具｜⭐ 17,732｜语言：TypeScript
+简介（原文）：🧠 Leon is your open-source personal assistant.
+地址：https://github.com/leon-ai/leon
 
-**7. Tencent/WeKnora**
-分类：AI内容创作｜⭐ 38,339｜语言：Go
-简介（原文）：Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-地址：https://github.com/Tencent/WeKnora
+**7. iamgio/quarkdown**
+分类：开源知识管理｜⭐ 16,421｜语言：Kotlin
+简介（原文）：🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
+地址：https://github.com/iamgio/quarkdown
 
-**8. QwenLM/qwen-code**
-分类：AI编程/Codex｜⭐ 30,972｜语言：TypeScript
-简介（原文）：An open-source AI coding agent that lives in your terminal.
-地址：https://github.com/QwenLM/qwen-code
+**8. tonhowtf/omniget**
+分类：AI编程/Codex｜⭐ 14,748｜语言：Rust
+简介（原文）：Local MCP server that lets Claude Code, Codex, Cursor and Gemini CLI use your own computer and your own logged-in accounts: chats, feeds, browser, files and downloads. Also a downl
+地址：https://github.com/tonhowtf/omniget
 
-**9. nocobase/nocobase**
-分类：AI编程/Codex｜⭐ 25,028｜语言：TypeScript
-简介（原文）：NocoBase is the open-source platform for building, running, and evolving business systems with AI. Agents write the code and do the work, NocoBase provides the foundation and gover
-地址：https://github.com/nocobase/nocobase
+**9. n8n-io/nod**
+分类：个人效率工具｜⭐ 4,503｜语言：TypeScript
+简介（原文）：Open source personal agent with its own computer. It chases invoices, preps your calls and cancels trials on real websites, and asks before it acts. Runs on your machine with the m
+地址：https://github.com/n8n-io/nod
 
-**10. haiwen/seafile**
-分类：开源知识管理｜⭐ 15,503｜语言：C
-简介（原文）：Beyond file syncing and sharing, a new way to organize your files with extensible file properties and flexible views
-地址：https://github.com/haiwen/seafile
+**10. gamosoft/NoteDiscovery**
+分类：开源知识管理｜⭐ 2,892｜语言：JavaScript
+简介（原文）：Your Self-Hosted Knowledge Base
+地址：https://github.com/gamosoft/NoteDiscovery
